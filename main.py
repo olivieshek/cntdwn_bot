@@ -352,7 +352,7 @@ class CountdownBot:
 
 # Запуск бота
 if __name__ == "__main__":
-    BOT_TOKEN = "8385192761:AAHYEylTefdFqSS8nkNFIAmISUoSlJqE4S4"
+    BOT_TOKEN = BOT_TOKEN
 
     if BOT_TOKEN == "ТВОЙ_ТОКЕН_ЗДЕСЬ":
         print("❌ ОШИБКА: Замени 'ТВОЙ_ТОКЕН_ЗДЕСЬ' на реальный токен бота!")
